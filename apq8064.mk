@@ -53,9 +53,9 @@ PRODUCT_PACKAGES += \
     tinymix
 
 # Charger
-PRODUCT_PACKAGES += \
-    charger_res_oppo \
-    charger_oppo
+#PRODUCT_PACKAGES += \
+#    charger_res_oppo \
+#    charger_oppo
 
 # Filesystem management tools
 PRODUCT_PACKAGES += \
